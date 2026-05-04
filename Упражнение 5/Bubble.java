@@ -1,7 +1,7 @@
 /*
    Упражнение 5.1.
    Демонстрация пузырьковой сортировки.
-   Sorokoumov
+   Dolinin
 */
 class Bubble {
     public static void main(String[] args) {
