@@ -1,7 +1,7 @@
 /*
     Упражнение 5.2.
     Класс очереди для символов.
-    Sorokoumov
+    Dolinin
 */
 class Queue {
     private char[] q; 
