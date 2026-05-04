@@ -1,7 +1,7 @@
 /*
    Упражнение 5.2.
    Демонстрация использования класса Queue.
-   Sorokoumov
+   Dolinin
 */
 
 class QDemo {
