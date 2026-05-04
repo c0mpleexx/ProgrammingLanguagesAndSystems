@@ -1,7 +1,7 @@
 /*
    Упражнение 5.3.
    Класс, который отображает двоичное представление значения.
-   Sorokoumov
+   Dolinin
 */
 class ShowBits {
     int numbits; 
