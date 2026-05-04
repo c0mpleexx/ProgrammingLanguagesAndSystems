@@ -1,7 +1,7 @@
 /*
    Упражнение 1.1
    Эта программа преобразует галлоны в литры.
-   Sorokoumov
+   Dolinin
 */
 class GalToLit {
     public static void main(String[] args) {
