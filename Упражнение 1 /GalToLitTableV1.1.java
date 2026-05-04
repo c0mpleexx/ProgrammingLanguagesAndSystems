@@ -1,7 +1,7 @@
 /*
    Упражнение 1.2
    Эта программа отображает таблицу преобразований галлонов в литры.
-   Sorokoumov
+   Dolinin
 */
 class GalToLitTable {
     public static void main(String[] args) {
