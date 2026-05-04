@@ -1,6 +1,6 @@
 /*
    Упражнение 5.4.
-   Sorokoumov
+   Dolinin
 */
 class ShowBitsDemo {
     public static void main(String[] args) {
