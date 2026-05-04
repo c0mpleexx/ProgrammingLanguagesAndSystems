@@ -2,7 +2,7 @@
    Упражнение 3.3.
    Законченная справочная система по операторам Java,
    позволяющая обрабатывать множество запросов.
-   Sorokoumov
+   Dolinin
 */
 class Help3 {
     public static void main(String[] args)
