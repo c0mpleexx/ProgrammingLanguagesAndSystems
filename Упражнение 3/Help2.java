@@ -3,7 +3,7 @@
    Улучшенная справочная система по управляющим операторам Java,
    в которой используется цикл do-while для обработки выбора
    варианта в меню.
-   Sorokoumov
+   Dolinin
 */
 class Help2 {
     public static void main(String[] args)
